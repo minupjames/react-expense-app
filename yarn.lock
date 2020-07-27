@@ -3571,7 +3571,7 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-extract-text-webpack-plugin@^4.0.0-beta.0:
+extract-text-webpack-plugin@4.0.0-beta.0:
   version "4.0.0-beta.0"
   resolved "https://registry.yarnpkg.com/extract-text-webpack-plugin/-/extract-text-webpack-plugin-4.0.0-beta.0.tgz#f7361d7ff430b42961f8d1321ba8c1757b5d4c42"
   integrity sha512-Hypkn9jUTnFr0DpekNam53X47tXn3ucY08BQumv7kdGgeVUBLq3DJHJTi6HNxv4jl9W+Skxjz9+RnK0sJyqqjA==
@@ -9529,3 +9529,8 @@ yargs@^15.3.1:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^18.1.2"
+
+yarn.lock@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/yarn.lock/-/yarn.lock-0.0.1-security.tgz#8e7117924bfe916671b21f14212ba1bb49dfe0c7"
+  integrity sha512-ZRX6v5zGCJMI1T2aO+BQxJggy1vvorXEwonQhWXIC+brO7lkDB3zWelVNAti183ddH6FmJP8z4UDCJnJlioK4Q==
